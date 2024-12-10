@@ -44,15 +44,4 @@ print(f"1. Name: {pokemon1['name']}, Type: {pokemon1['type']}, HP: {pokemon1['hp
 print(f"2. Name: {pokemon2['name']}, Type: {pokemon2['type']}, HP: {pokemon2['hp']}, Attack: {pokemon2['attack']}, Defense: {pokemon2['defense']}")
 # endregion
 
-Envoyer un message à @Bruno.D
-﻿
-
-
-
-
-
-
-
-
-Bruno.D
 
