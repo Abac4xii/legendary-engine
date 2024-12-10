@@ -1,4 +1,4 @@
-# Correction TP1
+# SCRIPT DE BRUNINHO
 #!/usr/bin/python
 
 # 4th step
